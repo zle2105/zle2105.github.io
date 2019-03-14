@@ -1,0 +1,150 @@
+      
+      .A circle:nth-child(even) { fill: #002A5E /* lighter */ }
+      .A circle:nth-child(odd) { fill: #FFC20E /* lighter */ }
+      .B circle:nth-child(odd) { fill: #F47A38 /* darker */ }
+      .B circle:nth-child(even) { fill: #B09862 /* lighter */ }
+      .C circle:nth-child(odd) { fill: #33006F /* darker */}
+      .C circle:nth-child(even) { fill: #C4CED4 /* lighter */ }
+
+
+
+    .HOU circle:nth-child(even) { fill: #002A5E /* lighter */ }
+      .CLE circle:nth-child(even) { fill: #FFC20E /* lighter */ }
+      .CLE circle:nth-child(odd) { fill: #c94435 /* darker */ }
+      .GSW circle:nth-child(even) { fill: #FDB927 /* lighter */ }
+      .GSW circle:nth-child(odd) { fill: #006BB6 /* darker */}
+      .HOU circle:nth-child(even) { fill: #CE1141 /* lighter */ }
+      .HOU circle:nth-child(odd) { fill: #C4CED4 /* darker */ }
+      .SAS circle:nth-child(even) { fill: #C4CED4 /* lighter */ }
+      .SAS circle:nth-child(odd) { fill: #767676 /* darker */ }
+      .NOP circle:nth-child(even) { fill: #C8102E /* lighter */ }
+      .NOP circle:nth-child(odd) { fill: #85714D /* darker */ }
+      .MIL circle:nth-child(even) { fill: #EEE1C6 /* lighter */ }
+      .MIL circle:nth-child(odd) { fill: #00471B /* darker */ }
+      .OKC circle:nth-child(even) { fill: #EF3B24 /* lighter */ }
+      .OKC circle:nth-child(odd) { fill: #007AC1 /* darker */ }
+      .PHI circle:nth-child(even) { fill: #ED174C /* lighter */ }
+      .PHI circle:nth-child(odd) { fill: #006BB6 /* darker */ }
+      .MIN circle:nth-child(even) { fill: #9EA2A2 /* lighter */ }
+      .MIN circle:nth-child(odd) { fill: #236192 /* darker */ }
+
+      holder
+        .selectAll('.text-label')
+        .data(bands)
+        .enter()
+        .append('text')
+        .attr('y', d => -radiusScale(d))
+        .attr('text-anchor', 'middle')
+        .attr('font-size', 10)
+        .attr('font-weight', 'bold')
+        .attr('alignment-baseline', 'middle')
+        .text(d => d * max)
+        .attr('transform', d => {
+          let degrees = (angleScale('Points') / Math.PI) * 180
+          return `rotate(${degrees})`
+        })
+
+      holder
+        .selectAll('.text-label')
+        .data(bands)
+        .enter()
+        .append('text')
+        .attr('y', d => -radiusScale(d))
+        .attr('text-anchor', 'middle')
+        .attr('font-size', 12)
+        .attr('alignment-baseline', 'middle')
+        .text(d => d * max)
+        .attr('transform', d => {
+          let degrees = (angleScale('Field Goals') / Math.PI) * 180
+          return `rotate(${degrees})`
+        })
+
+      holder
+        .selectAll('.text-label')
+        .data(bands)
+        .enter()
+        .append('text')
+        .attr('y', d => -radiusScale(d))
+        .attr('text-anchor', 'middle')
+        .attr('font-size', 12)
+        .attr('alignment-baseline', 'middle')
+        .text(d => d * max)
+        .attr('transform', d => {
+          let degrees = (angleScale('3-Point Field Goals') / Math.PI) * 180
+          return `rotate(${degrees})`
+        })
+
+      holder
+        .selectAll('.text-label')
+        .data(bands)
+        .enter()
+        .append('text')
+        .attr('y', d => -radiusScale(d))
+        .attr('text-anchor', 'middle')
+        .attr('font-size', 12)
+        .attr('alignment-baseline', 'middle')
+        .text(d => d * max)
+        .attr('transform', d => {
+          let degrees = (angleScale('Free Throws') / Math.PI) * 180
+          return `rotate(${degrees})`
+        })
+
+      holder
+        .selectAll('.text-label')
+        .data(bands)
+        .enter()
+        .append('text')
+        .attr('y', d => -radiusScale(d))
+        .attr('text-anchor', 'middle')
+        .attr('font-size', 12)
+        .attr('alignment-baseline', 'middle')
+        .text(d => d * max)
+        .attr('transform', d => {
+          let degrees = (angleScale('Rebounds') / Math.PI) * 180
+          return `rotate(${degrees})`
+        })
+
+      holder
+        .selectAll('.text-label')
+        .data(bands)
+        .enter()
+        .append('text')
+        .attr('y', d => -radiusScale(d))
+        .attr('text-anchor', 'middle')
+        .attr('font-size', 12)
+        .attr('alignment-baseline', 'middle')
+        .text(d => d * max)
+        .attr('transform', d => {
+          let degrees = (angleScale('Assists') / Math.PI) * 180
+          return `rotate(${degrees})`
+        })
+
+      holder
+        .selectAll('.text-label')
+        .data(bands)
+        .enter()
+        .append('text')
+        .attr('y', d => -radiusScale(d))
+        .attr('text-anchor', 'middle')
+        .attr('font-size', 12)
+        .attr('alignment-baseline', 'middle')
+        .text(d => d * max)
+        .attr('transform', d => {
+          let degrees = (angleScale('Steals') / Math.PI) * 180
+          return `rotate(${degrees})`
+        })
+
+      holder
+        .selectAll('.text-label')
+        .data(bands)
+        .enter()
+        .append('text')
+        .attr('y', d => -radiusScale(d))
+        .attr('text-anchor', 'middle')
+        .attr('font-size', 12)
+        .attr('alignment-baseline', 'middle')
+        .text(d => d * max)
+        .attr('transform', d => {
+          let degrees = (angleScale('Blocks') / Math.PI) * 180
+          return `rotate(${degrees})`
+        })

@@ -1,0 +1,38 @@
+﻿,Name,Seller,Device_and_App_History,Contacts,Identity,Location,Phone,Photos_Media_Files,Storage,Camera,Microphone,Wi_Fi,DeviceID,Wearable,Calendar,Other,SMS,Permission_Score,C,B,A,Color
+0,SYLVANIA_SMART_Home_Application,LEDVANCE_LLC,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,4,FALSE,FALSE,TRUE,A
+1,C_by_GE_Application,General_Electric_Company,0,0,0,1,1,1,1,0,0,1,0,0,0,1,0,6,FALSE,TRUE,FALSE,B
+2,Philips_Hue_Application,Signify_Netherlands_B.V.,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,5,FALSE,FALSE,TRUE,A
+3,Feit_Electric_Application,Feit_Electric,1,0,0,1,1,1,1,0,1,1,1,0,0,1,0,9,FALSE,TRUE,FALSE,B
+4,HomeBrite_Application,Feit_Electric,1,1,0,1,1,1,1,1,0,1,1,0,0,1,0,10,FALSE,TRUE,FALSE,B
+5,Sengled_Home_App,Sengled_Optoelectronic_Co.Ltd.,1,0,0,1,1,1,1,1,0,1,1,0,0,1,0,9,FALSE,TRUE,FALSE,B
+6,iLintek_App,Shenzhen_Lingke_Technology_Co.Ltd.,0,0,0,1,1,1,1,0,1,1,1,0,0,1,0,8,FALSE,TRUE,FALSE,B
+7,iLintek_Home_App,Shenzhen_Lingke_Technology_Co._Ltd.,1,0,0,1,1,1,1,1,1,1,1,0,0,1,0,10,FALSE,TRUE,FALSE,B
+8,Magic_Home_Wifi_App,LED_Controller(Google Play)_zhibiao_Lin_(Apple),0,0,0,0,1,1,1,1,1,1,1,0,0,1,0,8,FALSE,TRUE,FALSE,B
+9,Magic_Home_Pro_Wifi_App,LED_Controller,0,0,0,1,0,1,1,1,1,1,0,0,0,1,0,7,FALSE,TRUE,FALSE,B
+10,LIFX_App,Lighting_Reimagined_LIFI_LABS_MANAGEMENT_PTY_LTD(Apple)_LiFi_Labs_Inc._(Google),0,1,1,1,0,1,1,0,1,1,0,0,0,1,0,8,FALSE,TRUE,FALSE,B
+11,Super_Warm_App,developer.ng,1,0,0,1,1,1,1,1,1,1,1,0,0,1,0,10,FALSE,TRUE,FALSE,B
+12,Osram_Lightify_App,OSRAM_(Google)_OSRAM_GmbH_(Apple),0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,4,FALSE,FALSE,TRUE,A
+13,Kasa_Smart_App,TP-Link_Research_America,0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,6,FALSE,TRUE,FALSE,B
+14,Smart_Life_App,Tuya_Inc.(Google)_Yu_xiang(Apple),1,1,0,1,1,1,1,1,1,1,1,0,0,1,0,11,TRUE,FALSE,FALSE,C
+15,Mi_Light,Mi-Light(Google)mingjie_Lin(Apple),1,0,0,1,1,1,1,1,0,1,1,0,0,1,0,9,FALSE,TRUE,FALSE,B
+16,Geeni_App,Merkury_Innovations,0,0,0,1,1,1,1,0,1,1,1,0,0,1,0,8,FALSE,TRUE,FALSE,B
+17,iLux_Lelight_Google_,Light_EVER,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,5,FALSE,FALSE,TRUE,A
+18,iLUX,Light_EVER,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,5,FALSE,FALSE,TRUE,A
+19,iHaper,Shenzhen_Globalegrow_E-Commerce_Co._Ltd.,0,0,0,1,0,1,1,1,0,1,0,0,0,1,0,6,FALSE,TRUE,FALSE,B
+20,OMISMART_BULB_APP,FengJun_Cheng(Apple)_Radioway_Technology(Shenzhen)Company_Ltd.House_&_Home_(Google),0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,4,FALSE,FALSE,TRUE,A
+21,AduroSmart-Smart_Home_ERIA,Aduro_Technologies_LLC,1,0,0,1,1,1,1,1,0,1,1,0,0,1,0,9,FALSE,TRUE,FALSE,B
+22,Brightfun App,Jinghua_Gu(Apple)_Hangzhou_FrankEver_Electronic_Co._Ltd.(Google),1,0,0,1,1,1,1,1,1,1,1,0,0,1,0,10,FALSE,TRUE,FALSE,B
+23,Mi_Home_App,Xiaomi_Inc_(Google)Beijing_Xiaomi_Co._Ltd_(Apple),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15,TRUE,FALSE,FALSE,C
+24,Yeelight,Yeelink(Google)_Qingdao_Yeelink_Information_Technology_Co_Ltd(Apple),1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,12,TRUE,FALSE,FALSE,C
+25,Aqara_Home,Lumi_United_(Apple),1,1,0,1,0,1,1,1,1,1,0,0,0,1,0,9,FALSE,TRUE,FALSE,B
+26,Magic_Light_BLE,LED_Controller(Google),0,0,0,1,1,1,1,1,1,0,1,0,0,1,0,8,FALSE,TRUE,FALSE,B
+27,MagicHue_WiFi,LED_Controller(Google)_zhibiao_Lin(Apple),0,0,0,1,0,1,1,1,1,1,0,0,0,1,0,7,FALSE,TRUE,FALSE,B
+28,Hao Deng,LED_Controller(Google)_zhibiao_Lin(Apple),0,0,0,1,1,1,1,1,1,1,1,0,0,1,0,9,FALSE,TRUE,FALSE,B
+29,eufyHome,Anker(Google)_Power_Mobile_Life_LLC(Apple),0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,6,FALSE,TRUE,FALSE,B
+30,PlusMinus_App,PlusMinus.ai(Google)_Hangzhou_PlusMinus_Ai_Techology_Co_Ltd(Apple),1,0,0,1,1,1,1,1,0,1,1,0,0,1,0,9,FALSE,TRUE,FALSE,B
+31,Novostella,Ustellar_Technology_Inc.,0,0,0,1,0,1,1,1,1,1,0,0,0,1,0,7,FALSE,TRUE,FALSE,B
+32,Tuya_Smart_Life,Tuya_Inc.,1,1,0,1,1,1,1,1,1,1,1,0,0,1,0,11,TRUE,FALSE,FALSE,C
+33,MagicLight_WF_V2,Ryan_Schultze(Apple)_SCHULTZE_IMPORTS(Google),0,0,0,1,0,1,1,1,1,1,0,0,0,1,0,7,FALSE,TRUE,FALSE,B
+34,TCP_Lighting_Application,TCPi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,D
+35,superlight_app,htang(Google)_Ting_Zhang(Amazon),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,D
+36,Magic_LED_Light_v2,zhibiao_Lin(Apple),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FALSE,FALSE,FALSE,D

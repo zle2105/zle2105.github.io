@@ -6,7 +6,11 @@
   "scripts": {
     "test": "jest",
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --out-dir docs --public-url /sample-d3-project"
+<<<<<<< HEAD
+    "build": "parcel build src/index.html --out-dir docs --public-url /LB"
+=======
+    "build": "parcel build src/index.html --out-dir docs --public-url /zle2105.github.io"
+>>>>>>> 2237ef216cefbcf01aa25da1842dbd44994b93c3
   },
   "jest": {
     "setupFiles": [
@@ -14,7 +18,11 @@
     ]
   },
   "keywords": [],
-  "author": "Jonathan Soma <jonathan.soma@gmail.com> (http://jonathansoma.com)",
+<<<<<<< HEAD
+  "author": "",
+=======
+  "author": "E<> ",
+>>>>>>> 2237ef216cefbcf01aa25da1842dbd44994b93c3
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
